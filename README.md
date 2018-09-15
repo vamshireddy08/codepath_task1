@@ -2,7 +2,7 @@
 ## codepath
 
 ### App Description
-This app has 3 buttons, each having it's own funcanality.
+ I have displayed a simple text and few buttons, when clicked contents of the screen is modified correspondingly.    
 
 ### App Walk-though
 
