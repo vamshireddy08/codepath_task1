@@ -50,6 +50,6 @@ public class MainActivity extends AppCompatActivity {
                 textElement2.setText("Welcome to vamshi's app");
 
             }
-        });
+        }); 
     }
 }
